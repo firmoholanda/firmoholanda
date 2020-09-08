@@ -1,6 +1,3 @@
-# 📃 firmoholanda
-
-
 <h2> hi, i'm firmo holanda!</h2>
 
 <p><em> junior full-stack developer. ready to tackle new and exciting challenges! </em></p>
