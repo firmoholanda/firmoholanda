@@ -5,6 +5,8 @@
 <p> react | redux | javaScript | ruby on rails </p>
 <a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee</a></p>
 
+
+<h3>some stats:</h3>
 <p align = "center"> 
   
   [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
@@ -15,7 +17,7 @@
   
 </p>
 
-<h3>technologies i use</h3>
+<h3>technologies i use:</h3>
 <p>
   <img alt="api" src="https://img.shields.io/badge/-api-F7B93E?style=flat-square&logo=api&logoColor=white" />
   <img alt="eslint" src="https://img.shields.io/badge/-eslint-43853d?style=flat-square&logo=eslint&logoColor=white" />
