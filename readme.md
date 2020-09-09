@@ -12,8 +12,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
   [![Twitter Badge](https://img.shields.io/badge/-@firmoholanda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmoholanda)](https://twitter.com/firmoholanda)
 
-  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&hide=html&layout=compact'>
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=firmoholanda&hide=issues,contribs'>
+  [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&layout=compact)](https://github.com/firmoholanda/github-readme-stats)
 
   ![firmo holanda github stats](https://github-readme-stats.vercel.app/api?username=firmoholanda&show_icons=true)
   
