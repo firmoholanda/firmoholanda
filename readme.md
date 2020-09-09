@@ -14,6 +14,8 @@
 
   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&hide=html&layout=compact'>
   <img align="center" src='https://github-readme-stats.vercel.app/api?username=firmoholanda&hide=issues,contribs'>
+
+  ![firmo holanda github stats](https://github-readme-stats.vercel.app/api?username=firmoholanda&show_icons=true)
   
 </p>
 
