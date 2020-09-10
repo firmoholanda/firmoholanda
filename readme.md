@@ -1,7 +1,7 @@
-hi, i'm firmo holanda!
+##hi, i'm firmo holanda!
 
-full-stack developer. ready to tackle new and exciting challenges!
-available for hire and glad to rellocate or work remotely
+:bug: full-stack developer. ready to tackle new and exciting challenges!
+:money_with_wings: available for hire and glad to rellocate or work remotely
 react | redux | javaScript | ruby on rails
 <a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee</a>
 
