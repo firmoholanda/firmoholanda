@@ -1,24 +1,17 @@
-<h2> hi, i'm firmo holanda!</h2>
+hi, i'm firmo holanda!
 
-<p> full-stack developer. ready to tackle new and exciting challenges! </p>
-<p> available for hire and glad to rellocate or work remotely </p>
-<p> react | redux | javaScript | ruby on rails </p>
-<a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee</a></p>
+full-stack developer. ready to tackle new and exciting challenges!
+available for hire and glad to rellocate or work remotely
+react | redux | javaScript | ruby on rails </p>
+<a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee</a>
 
-<p>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
-  
+  [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)  
   [![Twitter Badge](https://img.shields.io/badge/-@firmoholanda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmoholanda)](https://twitter.com/firmoholanda)
-  
-</p>
 
 <h3>some stats:</h3>
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
-  
   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&layout=compact)](https://github.com/firmoholanda/github-readme-stats)
-  
   ![firmo holanda github stats](https://github-readme-stats.vercel.app/api?username=firmoholanda&show_icons=true)
   
 
