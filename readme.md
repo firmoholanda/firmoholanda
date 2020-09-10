@@ -1,14 +1,15 @@
-##hi, i'm firmo holanda!
+# hi, i'm firmo holanda!
 
-:bug: full-stack developer. ready to tackle new and exciting challenges!
-:money_with_wings: available for hire and glad to rellocate or work remotely
-react | redux | javaScript | ruby on rails
-<a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee</a>
+- 🐛 full-stack developer. ready to tackle new and exciting challenges!
+- 💸 available for hire and glad to rellocate or work remotely
+- 📡 react | redux | javaScript | ruby on rails
+- :octocat: <a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee </a>
 
   [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)  
   [![Twitter Badge](https://img.shields.io/badge/-@firmoholanda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmoholanda)](https://twitter.com/firmoholanda)
 
-<h3>some stats:</h3>
+
+## some stats:
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
   
@@ -16,8 +17,8 @@ react | redux | javaScript | ruby on rails
   ![firmo holanda github stats](https://github-readme-stats.vercel.app/api?username=firmoholanda&show_icons=true)
   
 
-<h3>technologies i use:</h3>
-<p>
+## technologies i use:
+
   <img alt="api" src="https://img.shields.io/badge/-api-F7B93E?style=flat-square&logo=api&logoColor=white" />
   <img alt="eslint" src="https://img.shields.io/badge/-eslint-43853d?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -33,5 +34,4 @@ react | redux | javaScript | ruby on rails
   <img alt="Ruby" src="https://img.shields.io/badge/-ruby-430098?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/-sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="styled components" src="https://img.shields.io/badge/-styled_components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-</p>
+  <img alt="webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
