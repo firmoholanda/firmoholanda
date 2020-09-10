@@ -31,7 +31,7 @@
   ![react](https://img.shields.io/badge/-react-8DD6F9?style=flat-square&logo=react&logoColor=white)
   ![redux](https://img.shields.io/badge/-redux-764ABC?style=flat-square&logo=redux&logoColor=white)
   ![ruby on rails](https://img.shields.io/badge/-rails-45b8d8?style=flat-square&logo=ruby&logoColor=white)
-  ![ruby]https://img.shields.io/badge/-ruby-430098?style=flat-square&logo=ruby&logoColor=white)
+  ![ruby](https://img.shields.io/badge/-ruby-430098?style=flat-square&logo=ruby&logoColor=white)
   ![sass](https://img.shields.io/badge/-sass-CC6699?style=flat-square&logo=sass&logoColor=white)
   ![styled components](https://img.shields.io/badge/-styled_components-db7092?style=flat-square&logo=styled-components&logoColor=white)
   ![webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
