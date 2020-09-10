@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
-
 <h2> hi, i'm firmo holanda!</h2>
 
 <p> full-stack developer. ready to tackle new and exciting challenges! </p>
@@ -14,6 +12,8 @@
   [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
   
   [![Twitter Badge](https://img.shields.io/badge/-@firmoholanda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmoholanda)](https://twitter.com/firmoholanda)
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
 
   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&layout=compact)](https://github.com/firmoholanda/github-readme-stats)
 
