@@ -21,14 +21,14 @@
 
   ![api](https://img.shields.io/badge/-api-F7B93E?style=flat-square&logo=api&logoColor=white)
   ![eslint](https://img.shields.io/badge/-eslint-43853d?style=flat-square&logo=eslint&logoColor=white)
-
- 
+  ![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
   
-  <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="heroku" src="https://img.shields.io/badge/-heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  ![heroku](https://img.shields.io/badge/-heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+  ![html5](https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![nodejs](https://img.shields.io/badge/-nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+
+
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/-react-8DD6F9?style=flat-square&logo=react&logoColor=white" />
