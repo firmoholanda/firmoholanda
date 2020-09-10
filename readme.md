@@ -8,7 +8,7 @@
 
 <h3>some stats:</h3>
 
-<p align = "left"> 
+<div> 
   
   [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
   
@@ -16,15 +16,15 @@
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
   
-</p>
+</div>
 
-<p align = "center"> 
+<div align = "center"> 
   
   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&layout=compact)](https://github.com/firmoholanda/github-readme-stats)
   
   ![firmo holanda github stats](https://github-readme-stats.vercel.app/api?username=firmoholanda&show_icons=true)
   
-</p>
+</div>
 
 <h3>technologies i use:</h3>
 <p>
