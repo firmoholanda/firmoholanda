@@ -20,9 +20,10 @@
 ## technologies i use:
 
   ![api](https://img.shields.io/badge/-api-F7B93E?style=flat-square&logo=api&logoColor=white)
+  ![eslint](https://img.shields.io/badge/-eslint-43853d?style=flat-square&logo=eslint&logoColor=white)
 
-  <img alt="api" src="https://img.shields.io/badge/-api-F7B93E?style=flat-square&logo=api&logoColor=white" />
-  <img alt="eslint" src="https://img.shields.io/badge/-eslint-43853d?style=flat-square&logo=eslint&logoColor=white" />
+ 
+  
   <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="heroku" src="https://img.shields.io/badge/-heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
