@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
+
 <h2> hi, i'm firmo holanda!</h2>
 
 <p> full-stack developer. ready to tackle new and exciting challenges! </p>
