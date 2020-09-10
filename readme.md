@@ -5,10 +5,11 @@
 <p> react | redux | javaScript | ruby on rails </p>
 <a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmo-holanda-9964766/"> my resumee</a></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
+<p>
+  [![Linkedin Badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
   
-[![Twitter Badge](https://img.shields.io/badge/-@firmoholanda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmoholanda)](https://twitter.com/firmoholanda)
-
+  [![Twitter Badge](https://img.shields.io/badge/-@firmoholanda_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/firmoholanda)](https://twitter.com/firmoholanda)
+</p>
 
 <h3>some stats:</h3>
 
