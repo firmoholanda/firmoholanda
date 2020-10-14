@@ -1,7 +1,7 @@
 # Hi, I'm Firmo Holanda!
 
 - 🐛 Full-stack developer. Ready to tackle new and exciting challenges!
-- 💸 Available for hire and glad to relocate (preferably to canada :canada: ) or work remotely
+- 💸 Available for hire and glad to relocate (preferably to canada 🍁) or work remotely
 - 📡 React | Redux | JavaScript | Ruby on Rails
 - :octocat: <a href="https://firmoholanda.github.io/"> Take a look at my work </a> and <a href="https://www.linkedin.com/in/firmoholanda/"> my resumee </a>
 
