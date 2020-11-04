@@ -22,7 +22,7 @@
   ![api](https://img.shields.io/badge/-api-F7B93E?style=flat-square&logo=api&logoColor=white)
   ![eslint](https://img.shields.io/badge/-eslint-43853d?style=flat-square&logo=eslint&logoColor=white)
   ![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![github actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+  ![github actions](https://img.shields.io/badge/-github_actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
   ![heroku](https://img.shields.io/badge/-heroku-430098?style=flat-square&logo=heroku&logoColor=white)
   ![html5](https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![nodejs](https://img.shields.io/badge/-nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
