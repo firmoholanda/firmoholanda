@@ -1,6 +1,6 @@
 # hi, i'm firmo holanda!
 
-- 🐛 full-stack developer. ready to tackle new and exciting challenges!
+- 🐛 front-end software engineer react/react native. ready to tackle new and exciting challenges!
 - 📡 react | redux | javascript | ruby on rails
 - :octocat: <a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmoholanda/"> my resumee </a>
 
