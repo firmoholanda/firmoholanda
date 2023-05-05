@@ -1,7 +1,7 @@
 # hi, i'm firmo holanda!
 
 - 🐛  front-end software engineer react/react native. ready to tackle new and exciting challenges!
-- 📡  react/react native | javaScript | typeScript | ruby on rails
+- 📡  react/react native | redux | javaScript | typeScript | ruby on rails
 - :octocat: <a href="https://firmoholanda.github.io/"> take a look at my work </a> and <a href="https://www.linkedin.com/in/firmoholanda/"> my resumee </a>
 
   [![linkedin badge](https://img.shields.io/badge/-firmoholanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firmoholanda)](https://www.linkedin.com/in/firmoholanda/)
