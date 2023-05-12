@@ -9,8 +9,6 @@
 
 
 ## some stats:
-
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=firmoholanda.visitor-badge)
   
   [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmoholanda&layout=compact)](https://github.com/firmoholanda/github-readme-stats)
   ![firmo holanda github stats](https://github-readme-stats.vercel.app/api?username=firmoholanda&show_icons=true)
